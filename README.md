@@ -43,10 +43,7 @@ Contributions are welcome! Please follow these steps:
 ```bash
 python contact_list.py
 
-<br>
-3. Navigate to the project directory
-```bash
-cd Contact-List-Python-Project
+
 
 
 
