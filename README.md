@@ -41,7 +41,7 @@ Contributions are welcome! Please follow these steps:
    
 2. Run the application
 ```bash
-python Contact-List-Python-Project.py
+python contact_list.py
 
 3. Navigate to the project directory
 ```bash
