@@ -42,8 +42,3 @@ Contributions are welcome! Please follow these steps:
 2. Run the application
 ```bash
 python contact_list.py
-
-
-
-
-
