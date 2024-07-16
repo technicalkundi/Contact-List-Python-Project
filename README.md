@@ -39,8 +39,13 @@ Contributions are welcome! Please follow these steps:
    ```bash
    git clone https://github.com/technicalkundi/Contact-List-Python-Project.git
    
-## Run the application
+2. Run the application
 ```bash
 python Contact-List-Python-Project.py
+
+3. Navigate to the project directory
+```bash
+cd Contact-List-Python-Project
+
 
 
